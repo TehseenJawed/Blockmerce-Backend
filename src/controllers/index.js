@@ -1,0 +1,22 @@
+module.exports.userController = require("./user.controller");
+module.exports.productController = require("./product.controller");
+module.exports.vendorController = require("./vendor.controller");
+module.exports.addressDetailsController = require("./addressDetail.controller");
+module.exports.paymentDetailsController = require("./paymentDetail.controller");
+module.exports.authController = require("./auth.controller");
+module.exports.categoryController = require("./category.controller");
+module.exports.reviewController = require("./review.controller");
+module.exports.commentController = require("./comment.controller");
+module.exports.postController = require("./post.controller");
+module.exports.replyController = require("./reply.controller");
+module.exports.productCondtionController = require("./productCondtion.controller");
+module.exports.colourController = require("./colour.controller");
+module.exports.subCategoryController = require("./subCategory.controller");
+module.exports.notificationController = require("./notification.controller");
+module.exports.notificationTokenController = require("./notificationToken.controller");
+module.exports.notificationDetailController = require("./notificationDetail.controller");
+module.exports.wishlistController = require("./wishlist.controller");
+module.exports.chatController = require("./chat.controller");
+module.exports.cartController = require("./cart.controller");
+module.exports.paymentController = require("./payment.controller");
+
